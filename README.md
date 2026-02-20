@@ -1,7 +1,7 @@
 # 💫 About Me:
 Machine Learning & Mathematics enthusiast with a strong passion for data structures, algorithms, and problem-solving.
 Experienced in building robust backends using Django & Django REST Framework, with a growing focus on intelligent systems and scalable design.
-Solved 300+ LeetCode problems — and counting.
+Solved 330+ LeetCode problems — and counting.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hunar-bhatia) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hunarbhatia69@gmail.com) 
